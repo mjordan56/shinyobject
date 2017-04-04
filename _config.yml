@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 title: Michael Jordan
 
 show_downloads: false
+
+gems:
+   - jekyll-avatar

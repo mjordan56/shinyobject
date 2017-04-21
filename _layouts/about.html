@@ -9,20 +9,22 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
-    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <title>{{ page.title | default: site.github.repository_name }}</title>
   </head>
 
   <body>
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-        <img id="shinyrobot" src="assets/images/shinybender.png" alt="Shiny Robot">
         <header class="inner">
           <!-- a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a -->
 
+          <div style="display:inline-block;vertical-align:top;margin-right:10px">
+	          {% avatar mjordan56 size=100 %}
+	      </div>
           <div style="display:inline-block;">
-              <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-              <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+              <h1 id="project_title">{{ page.title | default: site.github.repository_name }}</h1>
+              <h2 id="project_tagline">{{ page.description | default: site.github.project_tagline }}</h2>
           </div>
 
           {% if site.show_downloads %}

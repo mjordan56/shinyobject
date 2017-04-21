@@ -1,0 +1,26 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "{{ site.theme }}";
+
+div.nav {
+    li {
+        display: inline-block;
+    }
+
+    a {
+        display: block;
+        width: 60px;
+    }
+}
+
+#shinyrobot {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    position: absolute;
+    float: left;
+    transform-origin: top;
+    transform: matrix(-0.4, 0, 0, 0.4, -50, -5);
+}

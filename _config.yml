@@ -1,7 +1,20 @@
-theme: jekyll-theme-slate
-title: Michael Jordan
+#
+# Configuration variables
+#
 
+# Use the Slate theme for the base look-and-feel.
+theme: jekyll-theme-slate
+
+# Title of the GitHub pages user site.
+title: Shiny Objects
+
+description: My musings on cool tech.
+
+# Set the timezone.
+timezone: America/Denver
+
+# The user site doesn't use the downloads feature of the slate theme.
 show_downloads: false
 
 gems:
-   - jekyll-avatar
+   - jekyll-avatar    # Gem to get the GitHub avatar

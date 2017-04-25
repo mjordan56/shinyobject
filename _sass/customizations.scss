@@ -1,0 +1,55 @@
+/*
+** File: customizations.scss
+**
+** CSS definitions to customize HTML elements.
+*/
+
+body {
+    background: #282c34;
+}
+
+.headerrow {
+    background: #282c34;
+    overflow: hidden;
+}
+
+.headerimage {
+}
+
+.headerimage img {
+    float: left;
+    margin: 0;
+}
+
+.headertext {
+    padding: 0 0 0 10px;
+}
+
+@media screen and (min-width: 600px) {
+    .headerimage {
+        padding: 0 10px 0 0;
+    }
+
+    .headerimage img {
+        float: right;
+        margin: 0;
+    }
+
+    .headertext {
+        padding: 20px 0 0 10px;
+    }
+}
+
+#shinyrobot {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+#avatar_wrap {
+    padding: 20px 10px 0 0;
+}
+
+#footer_wrap {
+    background: #282c34;
+}

@@ -1,12 +1,13 @@
 ---
+layout: home
 ---
-# Header Line One
+# Welcome To My Blog
 
-## Header Line Two
+It seems like everybody has a desire, or maybe it's a need, to be heard these days. Everyone is looking to claim their 15 minutes of fame on You Tube, Facebook, Twitter, Instagram, _{fill in the name of your favorite social media outlet here}_. Well, I guess this blog is my voice adding to the literally millions of other voices calling out into the infinite void of the internet.
 
-Hello World!
+My blog is a repository for me to comment on technology, applications and other geeky things that I find cool and interesting (i.e. shiny objects). I'm also going to cross-reference GitHub projects that I've created to investigate various technologies. My current interests are in the areas of Android Things, the Swift programming langage and iOS app development.
 
-### This is Header Line Three
+## Current Blog Posts
 
 <ul>
   {% for post in site.posts %}

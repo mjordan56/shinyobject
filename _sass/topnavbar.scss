@@ -18,9 +18,9 @@
     float: left;
     display: block;
     color: #f2f2f2;
-    width: 60px;
+    width: 80px;
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 8px 8px 8px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -35,7 +35,7 @@
 }
 
 .topnavspacer {
-    margin: 5% 0 0 0;
+    margin: 42px 0 0 0;
     width: 100%;
 }
 
@@ -44,6 +44,7 @@
     .topnav a.icon {
         float: right;
         display: block;
+        background-color: red;
     }
 }
 

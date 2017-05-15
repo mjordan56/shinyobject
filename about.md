@@ -39,72 +39,21 @@ o Project to explore IoT by creating an iOS app that uses Bluetooth LE to commun
 
 ##### Employment History
 
-__Data Aggregator Investigative Team<br>
-Medtronic Boulder, Colorado September 2015 - February 2017__
+__CAD/CAM<br>
+Auto-trol Technology Denver, CO 1982 - 1991__
 
-__Medtronic, Inc. - Boulder, Colorado<br>
-September 2015 - February 2017<br>
-Senior Mobile Programmer__
+Tech Support, Software Engineer, Engineering Manager
 
-I worked at Medtronic on a project to investigate the feasibility of a new product that would integrate with a patient monitoring
+__QuarkXPress East Asian Team<br>
+Quark Denver, CO 1991 - 1996__
 
-* Helped define and create an iOS and Android patient data sensor data aggregator app.
-* Display a summary of the data for each device as well as detailed information for each sensor.
-* The Data Aggregator pairs with multiple Bluetooth LE medical sensor devices to monitor patient biometric parameters. This data is then sent to a Cloud web service over Wi-Fi using a proprietary protocol.
-* The Data Aggregator sends sensor device information to the server using a proprietary protocol defined by Medtronic.
-* The GUI is a tabbed navigation view controller that incorporates three navigation view controllers; one for each of the primary tab views.
-* The project makes extensive use of events to drive the data updates from the BLE sensor devices.
-* Incorporates asynchronous tasks using TAP for monitoring and cadence services.
-* Binding a third-party Objective-C library in Xamarin to access the data of a third-party sensor device through the Objective-C API.
-* C#, Java .NET, JSON, REST, SQLite, Android Studio, Xamarin, Mono-Touch Dialog, xibs, Xcode, iOS, Android Debug Bridge (ADB), Perforce, Apple Connect, TestFlight
-
-__Alteryx Desktop Team<br>
-Alteryx Boulder, Colorado June 2012 - September 2014__
-
-Senior Programmer / Technical Lead for Designer GUI
-
-__Alteryx, Inc. - Boulder, Colorado<br>
-June 2012 - September 2014<br>
-Senior Programmer / Technical Lead for Designer GUI__
-
-* Managed UI/UX team through several releases to dramatically improve user experience.
-* Designed and implemented new scheduler GUI front-end in WPF in a legacy WinForms application.
-* Refreshed dated WinForms GUI to a more contemporary look-and-feel including designing and implementing new custom controls to improve user experience and workflow.
-* WPF, WinForms, C#, .Net, XML, SQL, Visual Studio 2010, SVN
-END Games Entertainment, LLC - Louisville, Colorado	2012 � 2012 (3 months)
-Senior Programmer
-* Localized Going Nuts, an Android game, for Korean.
-* Worked on Junglee Rummy and Fairway Solitaire; two separate card game projects.
-* Unity 3D, C#, Flash, ActionScript, ASP.NET, MVC3, SVN
-
-__ LEGO Universe<br>
-LEGO Systems Louisville, CO 2010 - 2011__
-
-__LEGO Systems, Inc. (Gazillion Entertainment / NetDevil) - Louisville, Colorado<br>
-2010 - 2011<br>
-Lead Tools Programmer / Tools Programmer__
-
-* Responsible for the development and maintenance of all software tools used in the production and delivery of LEGO Universe.
-* Recruited and built a tools development team consisting of six engineers.
-* Improved the quality and support of tool applications.
-* C/C++, C++/CLI, C#, WPF, WCF, Windows Forms, SQL, Perforce, Flash, ActionScript
-
-__Pain Team (PlayStation Game)<br>
-Idol Minds Louisville, CO 2008 - 2009__
-
-* Responsible for the maintaining and enhancing the primary game development tool application, Level Editor.
-* C/C++, C++/CLI, .NET, Windows Forms, PlayStation3, Perforce
-
-__Quark (Again, see below...)<br>
-Denver, CO 2006 - 2007__
-
-__Quark, Incorporated - Denver, Colorado<br>
-2006 - 2007<br>
-Senior Director, Desktop Applications__
-
-* Responsible for the development of Quark�s Desktop applications; QuarkXPress, Quark CopyDesk, Quark Interactive Designer, Quark Print Collection, and Quark XPert Tools.
-* Manage an engineering team of 230 engineering managers and engineers; 42 in Denver, Colorado and 188 in Chandigarh, India.
-* Implemented new Project Life Cycle (PLC) and agile development models for project development. Projects became predictable and on schedule using the PLC.
+* Responsibilities included recruiting, training and leading the engineering team.
+* Provided technical assistance and guidance for internationalization and localization for all Quark software development.
+* Released the initial versions of Simplified and Traditional Chinese QuarkXPress.
+* Macintosh OS, Windows 95, C/C++, SourceSafe, CodeWarrior, Visual C++
+Software Development Engineer
+* Worked on the team developing the Japanese and Korean versions of QuarkXPress 3.1 for the Macintosh.
+* Macintosh OS, C, Think C IDE, Metrowerks CodeWarrior IDE.
 
 __InDesign Team<br>
 Adobe Seattle, WA 1997 - 2005__
@@ -126,21 +75,74 @@ Engineering Manager, InDesign 1.0 Japanese
 * Recruited and managed a team of engineers to develop the Japanese version of InDesign 1.0. The project encompassed defining and implementing high-end, professional typographic features unique to Japanese publishing.
 * Coordinated development teams in India, France, Japan and domestic U.S. locations.
 
-__QuarkXPress East Asian Team<br>
-Quark Denver, CO 1991 - 1996__
+__Quark (Again)<br>
+Denver, CO April 2006 - April 2007__
 
-* Responsibilities included recruiting, training and leading the engineering team.
-* Provided technical assistance and guidance for internationalization and localization for all Quark software development.
-* Released the initial versions of Simplified and Traditional Chinese QuarkXPress.
-* Macintosh OS, Windows 95, C/C++, SourceSafe, CodeWarrior, Visual C++
-Software Development Engineer
-* Worked on the team developing the Japanese and Korean versions of QuarkXPress 3.1 for the Macintosh.
-* Macintosh OS, C, Think C IDE, Metrowerks CodeWarrior IDE.
 
-__CAD/CAM<br>
-Auto-trol Technology Denver, CO 1982 - 1991__
 
-Tech Support, Software Engineer, Engineering Manager
+__Quark, Incorporated - Denver, Colorado<br>
+2006 - 2007<br>
+Senior Director, Desktop Applications__
+
+* Responsible for the development of Quark�s Desktop applications; QuarkXPress, Quark CopyDesk, Quark Interactive Designer, Quark Print Collection, and Quark XPert Tools.
+* Manage an engineering team of 230 engineering managers and engineers; 42 in Denver, Colorado and 188 in Chandigarh, India.
+* Implemented new Project Life Cycle (PLC) and agile development models for project development. Projects became predictable and on schedule using the PLC.
+
+__Pain Team (PlayStation Game)<br>
+Idol Minds Louisville, CO 2008 - 2009__
+
+* Responsible for the maintaining and enhancing the primary game development tool application, Level Editor.
+* C/C++, C++/CLI, .NET, Windows Forms, PlayStation3, Perforce
+
+__ LEGO Universe<br>
+LEGO Systems Louisville, CO 2010 - 2011__
+
+__LEGO Systems, Inc. (Gazillion Entertainment / NetDevil) - Louisville, Colorado<br>
+2010 - 2011<br>
+Lead Tools Programmer / Tools Programmer__
+
+* Responsible for the development and maintenance of all software tools used in the production and delivery of LEGO Universe.
+* Recruited and built a tools development team consisting of six engineers.
+* Improved the quality and support of tool applications.
+* C/C++, C++/CLI, C#, WPF, WCF, Windows Forms, SQL, Perforce, Flash, ActionScript
+
+__Alteryx Desktop Team<br>
+Alteryx Boulder, Colorado June 2012 - September 2014__
+
+Senior Programmer / Technical Lead for Designer GUI
+
+__Alteryx, Inc. - Boulder, Colorado<br>
+June 2012 - September 2014<br>
+Senior Programmer / Technical Lead for Designer GUI__
+
+* Managed UI/UX team through several releases to dramatically improve user experience.
+* Designed and implemented new scheduler GUI front-end in WPF in a legacy WinForms application.
+* Refreshed dated WinForms GUI to a more contemporary look-and-feel including designing and implementing new custom controls to improve user experience and workflow.
+* WPF, WinForms, C#, .Net, XML, SQL, Visual Studio 2010, SVN
+END Games Entertainment, LLC - Louisville, Colorado	2012 � 2012 (3 months)
+Senior Programmer
+* Localized Going Nuts, an Android game, for Korean.
+* Worked on Junglee Rummy and Fairway Solitaire; two separate card game projects.
+* Unity 3D, C#, Flash, ActionScript, ASP.NET, MVC3, SVN
+
+__Data Aggregator Investigative Team<br>
+Medtronic Boulder, Colorado September 2015 - February 2017__
+
+__Medtronic, Inc. - Boulder, Colorado<br>
+September 2015 - February 2017<br>
+Senior Mobile Programmer__
+
+I worked at Medtronic on a project to investigate the feasibility of a new product that would integrate with a patient monitoring
+
+* Helped define and create an iOS and Android patient data sensor data aggregator app.
+* Display a summary of the data for each device as well as detailed information for each sensor.
+* The Data Aggregator pairs with multiple Bluetooth LE medical sensor devices to monitor patient biometric parameters. This data is then sent to a Cloud web service over Wi-Fi using a proprietary protocol.
+* The Data Aggregator sends sensor device information to the server using a proprietary protocol defined by Medtronic.
+* The GUI is a tabbed navigation view controller that incorporates three navigation view controllers; one for each of the primary tab views.
+* The project makes extensive use of events to drive the data updates from the BLE sensor devices.
+* Incorporates asynchronous tasks using TAP for monitoring and cadence services.
+* Binding a third-party Objective-C library in Xamarin to access the data of a third-party sensor device through the Objective-C API.
+* C#, Java .NET, JSON, REST, SQLite, Android Studio, Xamarin, Mono-Touch Dialog, xibs, Xcode, iOS, Android Debug Bridge (ADB), Perforce, Apple Connect, TestFlight
 
 
 

@@ -9,4 +9,8 @@ The new Android Things OS is (IMHO) really cool. With the rise in Internet of Th
 
 The Android Things OS strips out a number of the Android OS components that aren't required or make sense for an IoT device. But it also makes a number of the really cool features and tools from Android and Google available to IoT devices. This is __huge__! The potential for interesting new devices is mind-boggling.
 
-I
+I read through the [Android Things](https://developer.android.com/things/index.html) documentation. The following link details my experience implementing the "first device" Android Things project.
+
+https://shinyobjectaffliction.com/AndroidIoTFirstDevice
+
+This was an interesting little project, the equivalent of a "Hello World" project for Android Things.

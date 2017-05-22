@@ -11,6 +11,6 @@ The Android Things OS strips out a number of the Android OS components that aren
 
 I read through the [Android Things](https://developer.android.com/things/index.html) documentation. The following link details my experience implementing the "first device" Android Things project.
 
-[shinyobjectaffliction.com/AndroidIoTFirstDevice](www.shinyobjectaffliction.com/AndroidIoTFirstDevice)
+[shinyobjectaffliction.com/AndroidIoTFirstDevice](http://shinyobjectaffliction.com/AndroidIoTFirstDevice)
 
 This was an interesting little project, the equivalent of a "Hello World" project for Android Things.

@@ -17,8 +17,7 @@ I know it's an over used cliche but I've always like the phrase _"Life is a jour
 So, my professional journey began at...
 
 __Auto-trol Technology : Denver, CO 1982 - 1991<br>
-CAD/CAM
-__
+CAD/CAM__
 
 I started my career at Auto-trol Technology (ATTC), a CAD/CAM company in a field of roughly six or so major vendors (McData, Calma, Computervision, Intergraph, etc.). PCs were still under-powered novelties so these vendors sold proprietary hardware/software solutions. During my time at ATTC there were huge and exciting changes happening in the computer industry. I watched the transition from Sperry Varian V77 and DEC VAX mainframes to Apollo, Sun and DEC mini-VAX workstations to the first IBM PC XT. I also saw the paradigm business model shift from selling hardware to software. Hardware was becoming a commodity while software was becoming the unique value added to a system.
 
@@ -53,8 +52,7 @@ After nine years with Adobe my wife and I decided we wanted to be closer to fami
 After being back in Denver for a few months I was contacted by a friend of a friend who was working at Quark. They wanted to know if I was interesting in coming back...
 
 __Quark (Again) : Denver, CO 2006 - 2007<br>
-Senior Director of Desktop Applications
-__
+Senior Director of Desktop Applications__
 
 They say you can never go home again. In my case this was true. There are a number of "boomerang" employees that try something new but then go back to their previous company and are very happy with their return. Unfortunately, that wasn't my experience. Quark had gone through major changes in the nine years since I'd left; the development team I had worked with was gone, there was a different management team, and the majority of the software development was being done to India.
 
@@ -72,16 +70,14 @@ The computer game industry is really interesting and was a very different experi
 Working at Idol Minds was a lot of fun. Write some code, play the game to test the changes. Lots of exceptionally talented creative artists. The downside of the game industry is that its __very__ volatile. Sony Entertainment, Idol Minds primary benefactor, had there first major financial down turn in the fall of 2009. The studio cut its staff in half. I survived the first round of layoffs but not the second...
 
 __LEGO Systems : Louisville, CO 2010 - 2011<br>
-LEGO Universe
-__
+LEGO Universe__
 
 When one door closes another opens, so they say. As Idol Minds was downsizing another game studio in the same area was ramping up. Go figure. Game studios are pretty rare in Colorado and having two so close to each other was practically unheard of. NetDevil was a game studio that was contracted to build a massively multiplayer online role-playing game (MMORPG) base on LEGO characters in a LEGO brick world, i.e. LEGO Universe. This game would be a subscription based, pay-as-you-go venture targeted at 8 to 12 year olds. (Think of World of Warcraft or World of Tanks business model.) NetDevil was purchased by Gazillion Entertainment in California then directy by LEGO in Denmark.
 
 With the __huge__ cash reserves of LEGO behind us what could go wrong? I always thought there was a flaw in the premise to the business model that 8 to 12 year olds would have the dedication to an on-line game and discretionary cash to sustain this business model. Less than a year after buying the studio LEGO determined it couldn't make any money with LEGO Universe and shut the studio down. The tech support people said LEGO corporate made a lots of kids cry that day...
 
 __Alteryx : Boulder, CO 2012 - 2014<br>
-Alteryx Desktop Team
-__
+Alteryx Desktop Team__
 
 The dissolution of the LEGO game studio sent 80+ programmers, producers, etc. into the Denver and Boulder job market. A couple of my ex-colleagues landed at Alteryx and convinced me to join them. Alteryx develops products for data mining, data blending, big data applications. I've never been very interested in data crunching applications (see my comments at the beginning of my journey as I was leaving college) and wasn't interested in working on Alteryx's backend data engine. But they were interested in giving their desktop application a new look-and-feel. The software had a very dated 1990-era Microsoft Office look.
 
@@ -98,8 +94,7 @@ Trying to break into a new career area, especially in software development, is c
 That's why I was extremely grateful for my brother putting me onto a contract opportunity at Medtronic...
 
 __Medtronic : Boulder, CO 2015 - 2017<br>
-Data Aggregator Team
-__
+Data Aggregator Team__
 
 The Health Information and Monitoring group within Medtronic was looking for a contractor for a 6 month project to develop an iOS application to explore the feasibility of a patient monitoring device that would connect to multiple Bluetooth-LE (BLE) devices that send biometric data such as SpO2, heart rate, respiration rate, body temperature, etc. The iPhone would act as a proof-of-concept surrogate for a conceptual data aggregation device that would have the ability to connect to multiple BLE devices, collect their data then send this information via Wi-Fi to a Medtronic proprietary cloud based web application. The development framework for this iOS app was to be Xamarin. While I really wanted a Swift development opportunity any iOS development experience was good experience.
 

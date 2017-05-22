@@ -6,150 +6,113 @@ description: What would you like to know about me?
 
 # About Me
 
-I've had an exciting, interesting and fun career. I started out working in CAD, transitioned to desktop publishing apps, did some time on game projects and even had a brief exposure to a big data application. All my experiences with each company has been amazing. I've had the opportunity to work with a lot of talented and brilliant people, many of whom I feel lucky to still call friends.
+I've had an exciting, interesting and fun career. I started out working in CAD, transitioned into desktop publishing, did some time working on development tools for computer games, worked on revamping the GUI and UX for a big data application, and most recently worked on a skunk-works medical biometrics data gathering device. All my experiences, with both small local companies as well as large multi-national organizations, has been amazing. Through these experiences I've had the opportunity to work with a lot of talented and brilliant people, many of whom I feel lucky to still call friends.
 
-I'm now trying to morph once again from being basically a desktop application developer into a mobile application developer; specifically iOS and Swift. When my project at Alteryx ended I decided it was time to make a break and do something new. I immersed myself in learning Swift and iOS app development. Transitioning into a new tech domain space isn't always easy, So when a contract position was presented to me to work on an investigative project at Medtronic developing iOS apps for monitoring Bluetooth LE patient sensor devices I jumped at the opportunity.
-
-The Medtronic contract has been an outstanding experience. I've been able to explore and gain experience with Android OS, iOS, Java, Android Studio, Xamarin, Xcode, Bluetooth LE, RESTful API, XSLT, TCP, iTunes Connect, and a number of other technologies.
+The information presented here is suppose to be complimentary information to my resume. Resumes are good at highlighting the salient points associated with a position or a role with a company but not very enlighting about the experience. The remainder of this page are my reflections back on my career and as such is infused with my biases of what happened. If you want to know about where I worked and what I did then download my resume. If you want to know more about the why behind the what then read on...
 
 ## Life Is A Journey
 
-I know it's a cliche, especially as an answer to an interview question, but I've always like the phrase _"Life is a journey, not a destination."_ My career definitely has been and continues to be a journey.
+I know it's an over used cliche but I've always like the phrase _"Life is a journey, not a destination."_ I like it not only as an inspirational mantra but I have found there is a lot of truth in that statement. My experience has been that my career has definitely been and continues to be a journey. And like any journey, some elements were planned while others were fortuitous. A recruiter recently ask me "where do you see yourself in 5 years" (I hate these questions) to which I replied "I really don't know." I like to see what opportunities present themselves at any given time and see where they lead. When I got out of college I knew I wanted to work in the field computer graphics. This seemed so much more appealing than databases or number crunching with little to no user interface. I like "shiny objects" :wink: and at that time and place drawing objects on a screen was a shiny object.
 
-##### Professional Summary
+So, my professional journey began at...
 
-* Self-starter and motivator with the focus and discipline to maintain a variety of activities and responsibilities.
-* Experience in all facets of software application development and project management including managing and coordinating diverse domestic and international development teams.
-* Strong leadership, management and communication skills to accomplish project objectives on schedule.
-* Experience working with and coordinating cross-functional groups including Quality Assurance, Product Marketing, Engineering, Internationalization, Documentation and Technical Support.
+__Auto-trol Technology : Denver, CO 1982 - 1991<br>
+CAD/CAM
+__
 
-EMERGING SOFTWARE DEVELOPMENT KNOWLEDGE
-Continue building iOS mobile application development skills through on-line courses and guides.
-* Auditing Stanford CS193P Winter 2017 �Developing iOS 10 Apps with Swift� on iTunes U
-o Previously audited Stanford CS193P Winter 2015 �Developing iOS 8 Apps with Swift� on iTunes U
-* Objective-C Programming: The Big Nerd Ranch Guide
-* Swift Programming Series
-o The Swift Programming Language
-o Using Swift with Cocoa and Objective-C
-* Xcode 8.x IDE
-* Investigating Android Things OS for IoT capabilities.
-* Created local Git repository on Synology NAS to use with personal projects and explore Git.
-* Heart Rate Monitor project on GitHub - https://github.com/mjordan56/HeartRateMonitor.git
-o Project to explore IoT by creating an iOS app that uses Bluetooth LE to communicate with a Polar H7 heart rate monitor.
+I started my career at Auto-trol Technology (ATTC), a CAD/CAM company in a field of roughly six or so major vendors (McData, Calma, Computervision, Intergraph, etc.). PCs were still under-powered novelties so these vendors sold proprietary hardware/software solutions. During my time at ATTC there were huge and exciting changes happening in the computer industry. I watched the transition from Sperry Varian V77 and DEC VAX mainframes to Apollo, Sun and DEC mini-VAX workstations to the first IBM PC XT. I also saw the paradigm business model shift from selling hardware to software. Hardware was becoming a commodity while software was becoming the unique value added to a system.
 
-##### Employment History
+I had a number of different roles and positions at ATTC; tech support, programmer, sales technical support, senior programmer and engineering manager. ATTC, like many companies, was struggling to find their niche in this dynamic landscape. ATTC moved into the electronic publishing arena and built a technical illustration application on top of their CAD software. Working on this team exposed me to the concepts and technical issues related to print publishing.
 
-__CAD/CAM<br>
-Auto-trol Technology Denver, CO 1982 - 1991__
+During this time Apple introduced the Macintosh. The first Macs were interesting but weren't viable for much real-world application until the Mac Plus was released in 1986. I _loved_ the Mac (another shiny thing) and wanted to spend my days working and writing software for Macs. Macs didn't really fit into the ATTC product offering. But there was a start-up company in Denver that was beginning to ride the Desktop Publishing (DTP) wave that the Macintosh and Adobe PostScript was creating...
 
-Tech Support, Software Engineer, Engineering Manager
+__Quark : Denver, CO 1991 - 1996<br>
+QuarkXPress East Asian Team__
 
-__QuarkXPress East Asian Team<br>
-Quark Denver, CO 1991 - 1996__
+I was so excited to get the position with Quark. Working at one of the hottest start-up companies in DTP, Macintosh computers, C programming and a work environment that mirrored West Coast companies like Apple, Microsoft and Aldus. Cool!
 
-* Responsibilities included recruiting, training and leading the engineering team.
-* Provided technical assistance and guidance for internationalization and localization for all Quark software development.
-* Released the initial versions of Simplified and Traditional Chinese QuarkXPress.
-* Macintosh OS, Windows 95, C/C++, SourceSafe, CodeWarrior, Visual C++
-Software Development Engineer
-* Worked on the team developing the Japanese and Korean versions of QuarkXPress 3.1 for the Macintosh.
-* Macintosh OS, C, Think C IDE, Metrowerks CodeWarrior IDE.
+When I arrived for my first day at Quark I was asked what I knew about Japanese and Korean typography. "Nothing." "Good. You're going to be on the QuarkXPress East Asian team." This turned into an incredible experience of not only working on the fastest growing DTP application in the market but also learning about Japanese, Korean and ultimately Chinese culture and typography.
 
-__InDesign Team<br>
-Adobe Seattle, WA 1997 - 2005__
+Working with the many talented people at Quark and on QuarkXPress was both fun and challenging. Many of my tenets of software design, building great user focused applications and meticulus attention to the detail and design of good graphic user interfaces and user experience were forged at Quark.
 
-Senior Engineering Manager
+While Quark was a great experience an even greater opportunity lay just ahead...
 
-* Led the engineering development team for the 3.0 release of InDesign, Adobe�s multi-million dollar next generation publishing system for Macintosh and Windows. InDesign is one of Adobe�s top flagship products and a centerpiece of the Creative Pro product.
-* Managed a team of over 50 engineers in the design, development, and delivery of InDesign 3.0 through well-defined milestones and project objectives.
-* Successfully achieved all project schedule delivery dates and project life-cycle milestones.
-* Implemented extreme programming techniques to improve development processes for greater reliability, stability, and predictability. Used a system of improved automated build process, detailed daily bug analysis and automated performance benchmarks.
-* Presented product demonstrations, product vision briefs, and technical information to executive staff.
-* Supervised architectural and feature design meetings.
-Engineering Manager, InDesign 2.0 / InDesign 2.0 Japanese
-* Co-managed the development of the Roman and Japanese language versions of InDesign 2.0.
-* Coordinated development teams in India, France, Japan and domestic U.S. locations.
-* Implemented an automated bug metrics tracking system that provided daily information for the project.
-* Coordinated the simultaneous release of the Japanese and US English versions of InDesign.
-Engineering Manager, InDesign 1.0 Japanese
-* Recruited and managed a team of engineers to develop the Japanese version of InDesign 1.0. The project encompassed defining and implementing high-end, professional typographic features unique to Japanese publishing.
-* Coordinated development teams in India, France, Japan and domestic U.S. locations.
+__Adobe : Seattle, WA 1997 - 2005<br>
+InDesign Team__
 
-__Quark (Again)<br>
-Denver, CO April 2006 - April 2007__
+In the Fall of 1996 Adobe reached out to see if I'd be interested in joining the InDesign team in Seattle working on a next-generation DTP application. QuarkXPress had pretty soundly beaten Aldus PageMaker in the high-end professional market place. Aldus was working on a new DTP application when Adobe purchased them in 1994.
 
+Adobe was flat-out the greatest opportunity of my professional career. The company, the people, the technology and the culture were beyond my wildest dreams. There was a lot of hard work but experience was everything I'd hoped for and so much more. Many of my best memories and most endearing professional friendships were made at Adobe. All of the tenets of my professional career and my skills were honed and refined by my experiences at Adobe. I consider myself luck to have been given the opportunity.
 
+Adobe was very good to me in so many ways but, as they say, all good things...
 
-__Quark, Incorporated - Denver, Colorado<br>
-2006 - 2007<br>
-Senior Director, Desktop Applications__
+__Going Home : Denver 2006__
 
-* Responsible for the development of Quark�s Desktop applications; QuarkXPress, Quark CopyDesk, Quark Interactive Designer, Quark Print Collection, and Quark XPert Tools.
-* Manage an engineering team of 230 engineering managers and engineers; 42 in Denver, Colorado and 188 in Chandigarh, India.
-* Implemented new Project Life Cycle (PLC) and agile development models for project development. Projects became predictable and on schedule using the PLC.
+After nine years with Adobe my wife and I decided we wanted to be closer to family and friends again so we headed back to Denver.
 
-__Pain Team (PlayStation Game)<br>
-Idol Minds Louisville, CO 2008 - 2009__
+After being back in Denver for a few months I was contacted by a friend of a friend who was working at Quark. They wanted to know if I was interesting in coming back...
 
-* Responsible for the maintaining and enhancing the primary game development tool application, Level Editor.
-* C/C++, C++/CLI, .NET, Windows Forms, PlayStation3, Perforce
+__Quark (Again) : Denver, CO 2006 - 2007<br>
+Senior Director of Desktop Applications
+__
 
-__ LEGO Universe<br>
-LEGO Systems Louisville, CO 2010 - 2011__
+They say you can never go home again. In my case this was true. There are a number of "boomerang" employees that try something new but then go back to their previous company and are very happy with their return. Unfortunately, that wasn't my experience. Quark had gone through major changes in the nine years since I'd left; the development team I had worked with was gone, there was a different management team, and the majority of the software development was being done to India.
 
-__LEGO Systems, Inc. (Gazillion Entertainment / NetDevil) - Louisville, Colorado<br>
-2010 - 2011<br>
-Lead Tools Programmer / Tools Programmer__
+When I interviewed with Quark I had some reservations about where they were going but they were in the middle of conducting a search for a new CEO. I thought this could be an interesting opportunity to be part of Quark re-building the company into something new since (IMHO) competing against the Adobe juggernaut and their Creative Suite product was futile. I envisioned something like Lotus re-building themselves with Lotus Notes after Lotus 1-2-3 lost the battle to Microsoft Excel and Office.
 
-* Responsible for the development and maintenance of all software tools used in the production and delivery of LEGO Universe.
-* Recruited and built a tools development team consisting of six engineers.
-* Improved the quality and support of tool applications.
-* C/C++, C++/CLI, C#, WPF, WCF, Windows Forms, SQL, Perforce, Flash, ActionScript
+Well, long story short, the new CEO came in, he had a different vision, I didn't believe in his vision so I resigned after one year (literally on my one year anniversary). Enough said...
 
-__Alteryx Desktop Team<br>
-Alteryx Boulder, Colorado June 2012 - September 2014__
+__Idol Minds : Louisville, CO 2008 - 2009<br>
+Pain Team__
 
-Senior Programmer / Technical Lead for Designer GUI
+After taking some time off another old friend from my days at ATTC contacted me and wanted to know if I had and programming chops left or if management had rotted my brain. :smile: He was working at a company that produced games for the Sony PlayStation. They were looking for a software tools developer to work on their internally developed game development tool.
 
-__Alteryx, Inc. - Boulder, Colorado<br>
-June 2012 - September 2014<br>
-Senior Programmer / Technical Lead for Designer GUI__
+The computer game industry is really interesting and was a very different experience from any of the other software development environments I'd experienced. The first difference that amused me was the position titles. Instead of the familiar software development roles and titles I was use to hearing, the computer game industry aligns itself with the entertainment industry. For example, instead of a Product Manager they have a Producer. Hmmm, interesting.
 
-* Managed UI/UX team through several releases to dramatically improve user experience.
-* Designed and implemented new scheduler GUI front-end in WPF in a legacy WinForms application.
-* Refreshed dated WinForms GUI to a more contemporary look-and-feel including designing and implementing new custom controls to improve user experience and workflow.
-* WPF, WinForms, C#, .Net, XML, SQL, Visual Studio 2010, SVN
-END Games Entertainment, LLC - Louisville, Colorado	2012 � 2012 (3 months)
-Senior Programmer
-* Localized Going Nuts, an Android game, for Korean.
-* Worked on Junglee Rummy and Fairway Solitaire; two separate card game projects.
-* Unity 3D, C#, Flash, ActionScript, ASP.NET, MVC3, SVN
+Working at Idol Minds was a lot of fun. Write some code, play the game to test the changes. Lots of exceptionally talented creative artists. The downside of the game industry is that its __very__ volatile. Sony Entertainment, Idol Minds primary benefactor, had there first major financial down turn in the fall of 2009. The studio cut its staff in half. I survived the first round of layoffs but not the second...
 
-__Data Aggregator Investigative Team<br>
-Medtronic Boulder, Colorado September 2015 - February 2017__
+__LEGO Systems : Louisville, CO 2010 - 2011<br>
+LEGO Universe
+__
 
-__Medtronic, Inc. - Boulder, Colorado<br>
-September 2015 - February 2017<br>
-Senior Mobile Programmer__
+When one door closes another opens, so they say. As Idol Minds was downsizing another game studio in the same area was ramping up. Go figure. Game studios are pretty rare in Colorado and having two so close to each other was practically unheard of. NetDevil was a game studio that was contracted to build a massively multiplayer online role-playing game (MMORPG) base on LEGO characters in a LEGO brick world, i.e. LEGO Universe. This game would be a subscription based, pay-as-you-go venture targeted at 8 to 12 year olds. (Think of World of Warcraft or World of Tanks business model.) NetDevil was purchased by Gazillion Entertainment in California then directy by LEGO in Denmark.
 
-I worked at Medtronic on a project to investigate the feasibility of a new product that would integrate with a patient monitoring
+With the __huge__ cash reserves of LEGO behind us what could go wrong? I always thought there was a flaw in the premise to the business model that 8 to 12 year olds would have the dedication to an on-line game and discretionary cash to sustain this business model. Less than a year after buying the studio LEGO determined it couldn't make any money with LEGO Universe and shut the studio down. The tech support people said LEGO corporate made a lots of kids cry that day...
 
-* Helped define and create an iOS and Android patient data sensor data aggregator app.
-* Display a summary of the data for each device as well as detailed information for each sensor.
-* The Data Aggregator pairs with multiple Bluetooth LE medical sensor devices to monitor patient biometric parameters. This data is then sent to a Cloud web service over Wi-Fi using a proprietary protocol.
-* The Data Aggregator sends sensor device information to the server using a proprietary protocol defined by Medtronic.
-* The GUI is a tabbed navigation view controller that incorporates three navigation view controllers; one for each of the primary tab views.
-* The project makes extensive use of events to drive the data updates from the BLE sensor devices.
-* Incorporates asynchronous tasks using TAP for monitoring and cadence services.
-* Binding a third-party Objective-C library in Xamarin to access the data of a third-party sensor device through the Objective-C API.
-* C#, Java .NET, JSON, REST, SQLite, Android Studio, Xamarin, Mono-Touch Dialog, xibs, Xcode, iOS, Android Debug Bridge (ADB), Perforce, Apple Connect, TestFlight
+__Alteryx : Boulder, CO 2012 - 2014<br>
+Alteryx Desktop Team
+__
 
+The dissolution of the LEGO game studio sent 80+ programmers, producers, etc. into the Denver and Boulder job market. A couple of my ex-colleagues landed at Alteryx and convinced me to join them. Alteryx develops products for data mining, data blending, big data applications. I've never been very interested in data crunching applications (see my comments at the beginning of my journey as I was leaving college) and wasn't interested in working on Alteryx's backend data engine. But they were interested in giving their desktop application a new look-and-feel. The software had a very dated 1990-era Microsoft Office look.
 
+I led a small team over my tenure with Alteryx and we revamped the GUI, fixed a significant number of legacy UI bugs and improved the user experience. Alteryx users are a passionate group that love the product. When the new release was unveiled at their yearly user group convention the unsolicited accolades I received from users was very rewarding.
 
-##### ADDITIONAL TECHNICAL SKILLS
-Additional technologies studied and researched but not directly reflected in work experience:
-* Xcode, Swift, Objective-C, Git, SQL, LINQ, XML, Python, JavaScript, HTML, XSLT, CSS
+After the new version of Alteryx desktop was release there were changes in management and development focus. Developers were going to be more generalists instead of specializing in a particular area. I didn't exactly want to be a generic programmer so I thought it was a good time to part ways and investigate new opportunities...
 
-##### Education
+__A New Direction : 2014 - 2015__
 
-Bachelor of Science in Applied Mathematics	University of Colorado, Denver, Colorado.
+At this point desktop applications are a dying breed. The cool new stuff is being done either in the cloud or in mobile development. Apple announced a cool new development language, Swift (oooh, a new shiny thing). I decided to dive into Swift and iOS development. I renew my Apple Developer status, read all the Apple documentation on Swift, get Xcode and audit the Stanford class CS193P "Developing iOS 8 Apps with Swift" on iTunes U. (Note: Paul Hegarty is an outstanding instructor and this _free_ class is very well done. I highly recommend anyone starting Swift and iOS development to check out this resource.)
+
+Trying to break into a new career area, especially in software development, is challenging to say the least. Have you ever talked to a recruiter and explained to them you don't have the specific experience they're looking for but you've been doing independent research and investigation into the area? Good luck.
+
+That's why I was extremely grateful for my brother putting me onto a contract opportunity at Medtronic...
+
+__Medtronic : Boulder, CO 2015 - 2017<br>
+Data Aggregator Team
+__
+
+The Health Information and Monitoring group within Medtronic was looking for a contractor for a 6 month project to develop an iOS application to explore the feasibility of a patient monitoring device that would connect to multiple Bluetooth-LE (BLE) devices that send biometric data such as SpO2, heart rate, respiration rate, body temperature, etc. The iPhone would act as a proof-of-concept surrogate for a conceptual data aggregation device that would have the ability to connect to multiple BLE devices, collect their data then send this information via Wi-Fi to a Medtronic proprietary cloud based web application. The development framework for this iOS app was to be Xamarin. While I really wanted a Swift development opportunity any iOS development experience was good experience.
+
+This turned out to be a really cool opportunity. I got to develop several iOS apps using Xamarin mixed with some Xcode developed customizations. At the end of the 6 months I was asked if I was interested in another 12 month contract to work on an Android OS version of the data aggregator.
+
+I was disappointed to see this contract end. Due to budget constraints, Medtronic was cutting back on the use of contractor resources and there wasn't an equivalent direct position open in the company. Oh well...
+
+## To Infinity And Beyond
+
+So, where to next? I'm always open to hearing about new opportunities that align with my interests. I'll continue to dive into mobile application development. Both Android OS and iOS and their associated technologies are continuing to make really cool and interesting advancements. I really like the (relatively) new language Swift and will continue to work on building my skills with Swift and iOS.
+
+Android Things OS is also interesting to me and builds on my experiences at Medtronic. I find it cool that powerful, low-cost computing devices that connect to each other and the internet are becoming ubiquitous. Each passing day makes me think of Ray Bradbury's short story [_"There Will Come Soft Rains"_](https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains).
+
+Google just announce support for the Kotlin language. This looks really cool too as it has a number of similar language features in common with Swift. I really like the direction Swift, Kotlin and C# are moving. Guido van Rossum said he liked the _"batteries included"_ approached when designing Python. Which I interpreted as a development language that lets the software developer focus on the implementation of the application solution and not on the peculiarities of the language being used.
+
+That's more than enough for now. If you'll excuse me I have some shiny things to look at...

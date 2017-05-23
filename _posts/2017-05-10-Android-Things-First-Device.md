@@ -1,7 +1,7 @@
 ---
 date: 2017-05-02
-layout: home
-summary: Build a simple introductory Android Things IoT device.
+layout: post
+synopsis: Build a simple introductory Android Things IoT device.
 ---
 
 # Android Things First Device

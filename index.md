@@ -16,7 +16,7 @@ I'm going to cross-reference by blog post with associated GitHub projects that I
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      - {{ post.summary }} -&nbsp;{{ post.date | date: '%B %-d, %Y'}}
+      - {{ post.synopsis }} -&nbsp;{{ post.date | date: '%B %-d, %Y'}}
     </li>
     <br>
   {% endfor %}

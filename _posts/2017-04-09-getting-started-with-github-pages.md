@@ -19,7 +19,7 @@ I figured having some form of web presence that would allow me to capture inform
 
  GitHub Pages isn't for everyone but I'm finding it to be a great solution for my needs. Thank you GitHub for this really cool tool!
 
- # Under Construction
+# Under Construction
 
  The remained of this post is still under construction. I'd like to capture some of my insights and experiences with setting up my GitHub Pages user and project websites but I'm also anxious to get going using the framework I've created for showcasing my other work. I'll come back here as time permits to flesh out and add content to this page.
 

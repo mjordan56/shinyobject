@@ -6,7 +6,7 @@ synopsis: Build a simple introductory Android Things IoT device.
 
 # Synopsis
 
-[Android Things](https://developer.android.com/things/index.html) is a version of the Android OS targeted at the Internet of Things (IoT) market. With Android Things developers can build connected devices for a wide variety of consumer, retail, and industrial applications.
+[Android Things](https://developer.android.com/things/index.html){:target="_blank"} is a version of the Android OS targeted at the Internet of Things (IoT) market. With Android Things developers can build connected devices for a wide variety of consumer, retail, and industrial applications.
 
 # Overview
 
@@ -14,8 +14,8 @@ The new Android Things OS is (IMHO) really cool. With the rise in Internet of Th
 
 The Android Things OS strips out a number of the Android OS components that aren't required or make sense for an IoT device. But it also makes a number of the really cool features and tools from Android and Google available to IoT devices. This is __huge__! The potential for interesting new devices is mind-boggling.
 
-I read through the [Android Things](https://developer.android.com/things/index.html) documentation. The following link details my experience implementing the "first device" Android Things project.
+I read through the [Android Things SDK](https://developer.android.com/things/sdk/index.html){:target="_blank"} preview documentation and created my "first device". The following link details my experience implementing the first device Android Things project.
 
-[shinyobjectaffliction.com/AndroidIoTFirstDevice](http://shinyobjectaffliction.com/AndroidIoTFirstDevice){:target="_blank"}
+[Android Things First Device](http://shinyobjectaffliction.com/AndroidIoTFirstDevice){:target="_blank"}
 
 This was an interesting little project, the equivalent of a "Hello World" project for Android Things.

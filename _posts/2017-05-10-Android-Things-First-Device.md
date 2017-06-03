@@ -4,7 +4,11 @@ layout: post
 synopsis: Build a simple introductory Android Things IoT device.
 ---
 
-# Android Things First Device
+# Synopsis
+
+[Android Things]((https://developer.android.com/things/index.html) is a version of the Android OS targeted at the Internet of Things (IoT) market. With Android Things developers can build connected devices for a wide variety of consumer, retail, and industrial applications.
+
+# Overview
 
 The new Android Things OS is (IMHO) really cool. With the rise in Internet of Things (IoT) devices I think this is going to be an interesting technology to watch. Currently, most IoT devices seem to be using C or Python code running on Linux OS to create application solutions. While I think these solutions are moderately interesting I find the entry of the Android OS combined with the tools and support infrastructure Google has build for Android developers really interesting.
 

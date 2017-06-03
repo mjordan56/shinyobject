@@ -6,7 +6,7 @@ synopsis: Build a simple introductory Android Things IoT device.
 
 # Synopsis
 
-[Android Things]((https://developer.android.com/things/index.html) is a version of the Android OS targeted at the Internet of Things (IoT) market. With Android Things developers can build connected devices for a wide variety of consumer, retail, and industrial applications.
+[Android Things](https://developer.android.com/things/index.html) is a version of the Android OS targeted at the Internet of Things (IoT) market. With Android Things developers can build connected devices for a wide variety of consumer, retail, and industrial applications.
 
 # Overview
 

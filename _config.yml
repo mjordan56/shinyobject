@@ -16,5 +16,16 @@ timezone: America/Denver
 # The user site doesn't use the downloads feature of the slate theme.
 show_downloads: false
 
+# URL to my GitHub Pages user site.
+url: shinyobjectaffliction.com
+
+# Social profiles.
+social:
+    name: Michael Jordan
+    links:
+        - https://github.com/mjordan56
+        - https://linkedin.com/in/mjordan56
+
 gems:
    - jekyll-avatar    # Gem to get the GitHub avatar
+   - jekyll-seo-tag

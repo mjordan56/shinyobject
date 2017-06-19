@@ -16,9 +16,6 @@ timezone: America/Denver
 # The user site doesn't use the downloads feature of the slate theme.
 show_downloads: false
 
-# URL to my GitHub Pages user site.
-url: shinyobjectaffliction.com
-
 # Social profiles.
 social:
     name: Michael Jordan

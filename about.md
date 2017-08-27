@@ -106,7 +106,7 @@ I was disappointed to see this contract end. Due to budget constraints, Medtroni
 
 So, where to next? I'm always open to hearing about new opportunities that align with my interests. I'll continue to dive into mobile application development. Both Android OS and iOS and their associated technologies are continuing to make really cool and interesting advancements. I really like the (relatively) new language Swift and will continue to work on building my skills with Swift and iOS.
 
-Android Things OS is also interesting to me and builds on my experiences at Medtronic. I find it cool that powerful, low-cost computing devices that connect to each other and the internet are becoming ubiquitous. Each passing day makes me think of Ray Bradbury's short story [_"There Will Come Soft Rains"_](https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains).
+Android Things OS is also interesting to me and builds on my experiences at Medtronic. I find it cool that powerful, low-cost computing devices that connect to each other and the internet are becoming ubiquitous. Each passing day makes me think of Ray Bradbury's short story [_"There Will Come Soft Rains"_](https://en.wikipedia.org/wiki/There_Will_Come_Soft_Rains_(short_story)).
 
 Google just announce support for the Kotlin language. This looks really cool too as it has a number of similar language features in common with Swift. I really like the direction Swift, Kotlin and C# are moving. Guido van Rossum said he liked the _"batteries included"_ approached when designing Python. Which I interpreted as a development language that lets the software developer focus on the implementation of the application solution and not on the peculiarities of the language being used.
 

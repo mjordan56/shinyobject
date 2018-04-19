@@ -23,6 +23,6 @@ social:
         - https://github.com/mjordan56
         - https://linkedin.com/in/mjordan56
 
-gems:
+plugins:
    - jekyll-avatar    # Gem to get the GitHub avatar
    - jekyll-seo-tag

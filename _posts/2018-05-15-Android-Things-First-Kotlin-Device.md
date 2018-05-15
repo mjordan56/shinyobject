@@ -1,21 +1,17 @@
 ---
-date: 2017-05-02
+date: 2018-05-15
 layout: post
-synopsis: Build a simple introductory Android Things IoT device.
+synopsis: Build a simple introductory Android Things IoT device using Kotlin.
 ---
 
 # Synopsis
 
-[Android Things](https://developer.android.com/things/index.html){:target="_blank"} is a version of the Android OS targeted at the Internet of Things (IoT) market. With Android Things developers can build connected devices for a wide variety of consumer, retail, and industrial applications.
+Re-do the [Android Things First Device](http://shinyobjectaffliction.com/AndroidIoTFirstDevice){:target="_blank"} project using Kotlin as the development language.
 
 # Overview
 
-The new Android Things OS is (IMHO) really cool. With the rise in Internet of Things (IoT) devices I think this is going to be an interesting technology to watch. Currently, most IoT devices seem to be using C or Python code running on Linux OS to create application solutions. While I think these solutions are moderately interesting I find the entry of the Android OS combined with the tools and support infrastructure Google has build for Android developers really interesting.
+Android Things is now out of developer pre-release status with the release of version 1.0 at the Google I/O 2018 conference. Over the last year since I did my Android Things IoT first device project Kotlin has taken the Android world by storm. From what I've seen I really like this new language. There are many similarities to Swift and other contemporary languages. This is a nice improvement for Android development over Java.
 
-The Android Things OS strips out a number of the Android OS components that aren't required or make sense for an IoT device. But it also makes a number of the really cool features and tools from Android and Google available to IoT devices. This is __huge__! The potential for interesting new devices is mind-boggling.
+In this project I'm re-implementing the Android Things IoT first device project using Kotlin. I'm also looking at all the cool changes and additions to the Android Things development environment such as the Android Things Console.
 
-I read through the [Android Things SDK](https://developer.android.com/things/sdk/index.html){:target="_blank"} preview documentation and created my "first device". The following link details my experience implementing the first device Android Things project.
-
-[Android Things First Device](http://shinyobjectaffliction.com/AndroidIoTFirstDevice){:target="_blank"}
-
-This was an interesting little project, the equivalent of a "Hello World" project for Android Things.
+Information about this project, including source code, is available at [Android Things First Kotling Device](http://shinyobjectaffliction.com/AndroidIoTFirstKotlinDevice){:target="_blank"}.

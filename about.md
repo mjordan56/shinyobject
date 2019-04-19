@@ -117,6 +117,12 @@ I _really_ liked, enjoyed and even respected the other engineers that I worked w
 
 Oh well, time to move on and do something more suited to my interests...
 
+__Quiverware LLC : Westminster, CO 2018 - present<br>
+Owner / Consultant / Senior Software Engineer__
+
+Latest information!
+
+
 ## To Infinity And Beyond
 
 So, where to next? I'm always open to hearing about new opportunities that align with my interests. I'll continue to dive into mobile application development. Both Android OS and iOS and their associated technologies are continuing to make really cool and interesting advancements. I really like the (relatively) new language Swift and will continue to work on building my skills with Swift and iOS.

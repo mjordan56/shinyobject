@@ -129,7 +129,7 @@ I also liked the new Kotlin programming language and spent some time digging int
 
 A colleague from Cardinal Peak was approached by a local entrepreneur, Jesse Foote, who had created a children's treasure hunt game, [Color Clues](https://www.colorclues.com), and needed a programmer to fix a bug in the React Native app component of his game. I'm not a fan of React Native but I agreed to investigate and fix his bug. The fix went well so I also agreed to do a small feature enhancement for the game.
 
-Jesse was pleased with the work I did for him and asked if I was interested contracting to do a major upgrade to Color Clues. At that time I was investigating Flutter, a new cross-platform mobile app framework from Google.
+Jesse was pleased with the work I did for him and asked if I was interested contracting to do a major upgrade to Color Clues. At that time I was investigating Flutter, a new cross-platform mobile app framework from Google. I like the concept of a single code base that produces
 
 
 ## To Infinity And Beyond

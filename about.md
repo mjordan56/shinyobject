@@ -6,13 +6,15 @@ description: What would you like to know about me?
 
 # About Me
 
-I've had an exciting, interesting and fun career. I started out working in CAD, transitioned into desktop publishing, did some time working on development tools for computer games, worked on revamping the GUI and UX for a big data application, worked on a skunk-works medical biometrics data gathering device, and worked on cross-platform mobile apps for Android and iOS using React Native. All my experiences, with both small local companies as well as large multi-national organizations, has been amazing. Through these experiences I've had the opportunity to work with a lot of talented and brilliant people, many of whom I feel lucky to still call friends.
+I've had, and continue to have, an exciting, interesting and fun career. I started out working in CAD, transitioned to desktop publishing, did some time working on development tools for computer games, worked on revamping the UX for a big data application, developed mobile apps for a proof-of-concept medical biometrics data gathering device, created cross-platform mobile apps for Android and iOS using React Native, and now continue the cross-platform mobile app development theme using Google's new Flutter framework. All my experiences, with both small local companies as well as large multi-national organizations, has been amazing. Through these experiences I've had the opportunity to work with a lot of talented and brilliant people, many of whom I feel lucky to still call friends.
 
-The information presented here is suppose to be complimentary information to my resume. Resumes are good at highlighting the salient points associated with a position or a role with a company but not very enlighting about the experience. The remainder of this page has my reflections looking back on my career and, as such, is infused with my biases of what happened. If you want to know about where I worked and what I did then download my resume. If you want to know more about the why behind the what then read on...
+The comments that follow are presented for interested readers as my personal reflections on my career and compliments the terse, bullet point data in my resume. Resumes are good at highlighting the salient points of the what, where, and when associated with a position or a role with a company but not very enlighting about the experience. The remainder of this page has my reflections looking back on my career and, as such, is infused with my biases of what happened. If you want to know about where I worked and what I did then download my resume. If you want to know more about the why behind the what then read on...
+
+__Update April 2019:__ A year has passed since I refreshed the information on this page. This last year I took the leap and started my own company, [Quiverware LLC](#quiverware). Several factors came together that made starting Quiverware feel like the right next step for me. You can read more about Quiverware and my first project for [Color Clues](https://www.colorclues.com) below.
 
 ## Life Is A Journey
 
-I know it's an over used cliché but I've always like the phrase _"Life is a journey, not a destination."_ I like it not only as an inspirational mantra but I have found there is a lot of truth in that statement. My experience has been that my career has definitely been and continues to be a journey. And like any journey, some elements were planned while others were fortuitous. A recruiter recently ask me "where do you see yourself in 5 years" (I hate these questions) to which I replied "I really don't know." I like to see what opportunities present themselves at any given time and see where they lead. When I got out of college I knew I wanted to work in the field of computer graphics. This seemed so much more appealing than databases or number crunching with little to no user interface. I like "shiny objects" 😉 and at that time and place drawing objects on a screen was a shiny object.
+I know it's an over used cliché but I've always like the phrase _"Life is a journey, not a destination."_ I have found both inspiration and a lot of truth in that statement. My experience has been that my career has definitely been and continues to be a journey. And like any journey, some elements were planned while others were fortuitous. Recruiters like to ask candidates "where do you see yourself in 5 years" (I hate these questions) to which I usually replied "I really don't know." I like to see what opportunities present themselves at any given time and see where they lead. When I got out of college I knew I wanted to work in the field of computer graphics. This seemed so much more appealing than databases or number crunching with little to no user interface. I like "shiny objects" 😉 and at that time and place drawing objects on a screen was a shiny object.
 
 So, my professional journey began at...
 
@@ -117,10 +119,17 @@ I _really_ liked, enjoyed and even respected the other engineers that I worked w
 
 Oh well, time to move on and do something more suited to my interests...
 
+<a id="quiverware"></a>
 __Quiverware LLC : Westminster, CO 2018 - present<br>
 Owner / Consultant / Senior Software Engineer__
 
-Latest information!
+After leaving Cardinal Peak, I wasn't exactly sure of my next venture. I liked Android Things, but electronics hardware wasn't in my skill set. I was interested in the software component of IoT but the lack to hardware skills was going to make this a difficult area to do anything meaningful.
+
+I also liked the new Kotlin programming language and spent some time digging into Kotlin as an Android development langauge. But as I was looking for something new, something new found me.
+
+A colleague from Cardinal Peak was approached by a local entrepreneur, Jesse Foote, who had created a children's treasure hunt game, [Color Clues](https://www.colorclues.com), and needed a programmer to fix a bug in the React Native app component of his game. I'm not a fan of React Native but I agreed to investigate and fix his bug. The fix went well so I also agreed to do a small feature enhancement for the game.
+
+Jesse was pleased with the work I did for him and asked if I was interested contracting to do a major upgrade to Color Clues. At that time I was investigating Flutter, a new cross-platform mobile app framework from Google.
 
 
 ## To Infinity And Beyond

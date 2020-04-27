@@ -16,7 +16,7 @@ When appropriate, the blog entries posted here will cross-reference associated G
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      - {{ post.synopsis }} -&nbsp;{{ post.date | date: '%B %-d, %Y'}}
+      - {{ post.synopsis }} -&nbsp;{{ post.date | date: '%B %-d, %Y'}} {{ post.url }}
     </li>
     <br>
   {% endfor %}

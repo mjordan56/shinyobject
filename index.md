@@ -15,7 +15,7 @@ When appropriate, the blog entries posted here will cross-reference associated G
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{shinyobject/{ post.url }}">{{ post.title }}</a>
+      <a href="shinyobject/{{ post.url }}">{{ post.title }}</a>
       - {{ post.synopsis }} -&nbsp;{{ post.date | date: '%B %-d, %Y'}}
     </li>
     <br>

@@ -10,7 +10,7 @@ The primary reason I started this blog was to be able to share information on th
 
 When appropriate, the blog entries posted here will cross-reference associated GitHub projects that I've created to investigate various technologies. I'm creating these projects to showcase my work. If anyone else can find value in these projects please feel free to fork the project. Enjoy.
 
-## Blog Posts XX
+## Blog Posts XXY
 
 <ul>
   {% for post in site.posts %}
